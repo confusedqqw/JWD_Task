@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProjectTeam>
+    <name>Test file</name>
+    <projectPrice>12100</projectPrice>
+    <developersAmount>3</developersAmount>
+    <testersAmount>2</testersAmount>
+    <qaEngineersAmount>2</qaEngineersAmount>
+    <projectManagersAmount>1</projectManagersAmount>
+</ProjectTeam>
